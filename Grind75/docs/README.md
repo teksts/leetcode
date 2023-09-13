@@ -8,4 +8,4 @@ https://leetcode.com/teksts/
 And you can try your hand at the Grind here: 
 https://www.techinterviewhandbook.org/grind75?weeks=8&hours=8
 
-![](https://github.com/teksts/leetcode/Grind75/Docs/cat-bugcat.gif)
+![](https://github.com/teksts/leetcode/blob/main/Grind75/docs/cat-bugcat.gif?raw=true)
